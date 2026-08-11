@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-fpb91e.yoursingles.online/sitemap.xml
